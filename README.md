@@ -8,7 +8,7 @@ Bold 	**bold text**
 
 Italic 	*italicized text*
 
-Blockquote 	> blockquote
+**(NOT WORKING)** Blockquote 	> blockquote
 
 Ordered List 
 1. First item
@@ -24,7 +24,7 @@ Unordered List
 
 Code 	`code`
 
-Horizontal Rule 	---
+**(NOT WORKING)** Horizontal Rule 	---
 
 Link 	[title](https://www.example.com)
 
