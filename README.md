@@ -8,7 +8,7 @@ Bold 	**bold text**
 
 Italic 	*italicized text*
 
-**(NOT WORKING)** Blockquote 	> blockquote
+**(definitely WORKING)** Blockquote 	> blockquote
 
 Ordered List 
 1. First item
